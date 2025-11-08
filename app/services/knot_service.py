@@ -3,7 +3,7 @@ import httpx
 from fastapi import HTTPException
 
 client_id = "dda0778d-9486-47f8-bd80-6f2512f9bcdb"
-secret = "884d84e855054c32a8e39d08fcd9845d"
+secret = "ff5e51b6dcf84a829898d37449cbc47a"
 auth_str = f"{client_id}:{secret}"
 b64_auth_str = base64.b64encode(auth_str.encode()).decode()
 KNOT_API_BASE = "https://development.knotapi.com"
