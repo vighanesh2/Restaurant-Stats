@@ -1,0 +1,64 @@
+{
+    // Primary Identifier
+    "_id": "<ObjectId>",
+    // Core Order Details
+    "order_key": "<string>",
+    "order_completed_at": "<ISODate>",
+    "status": "<string>",
+    // User/Customer Reference
+    "user_id": "<string>", // Represents the external_user_id (e.g., "10000")
+    // Shipping Information (Embedded)
+    "shipping_address": {
+        "line1": "<string>",
+        "city": "<string>",
+        "region": "<string>",
+        "postalCode": "<string>",
+        "countryCode": "<string>",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                "<double (longitude)>",
+                "<double (latitude)>"
+            ] // For 2dsphere index
+        }
+    },
+    // Store/Restaurant Information (Embedded)
+    "store": {
+        "name": "<string>",
+        "phoneNumber": "<string>",
+        "address": {
+            "line1": "<string>",
+            "city": "<string>",
+            "region": "<string>",
+            "postalCode": "<string>",
+            "countryCode": "<string>",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    "<double (longitude)>",
+                    "<double (latitude)>"
+                ] // For 2dsphere index
+            }
+        }
+    },
+    // Price Breakdown (Embedded and Flattened for Aggregation)
+    "price": {
+        "subTotal": "<double>",
+        "tax": "<double>",
+        "tip": "<double>",
+        "total": "<double>",
+        "currency": "<string>"
+    },
+    // Products/Items Purchased (Embedded Array)
+    "products": [
+        {
+            "name": "<string>",
+            "quantity": "<int>",
+            "unitPrice": "<double>",
+            "total": "<double>"
+        }
+        // ... potentially more product objects
+    ],
+    // Schema Version for Tracking Changes
+    "schema_version": "<string>"
+}
