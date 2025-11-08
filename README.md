@@ -151,3 +151,32 @@
 }
 ```
 
+## Deploying the API
+
+- Install dependencies: `pip install -r requirements.txt`
+- Run locally: `uvicorn main:app --host 0.0.0.0 --port 8000`
+- For Render deployment:
+  - `render.yaml` contains the service definition.
+  - Push to GitHub; create a new Render Web Service pointing to the repo.
+  - Render uses the `startCommand` in `render.yaml` to launch `uvicorn`.
+- Access the playground at `/playground`.
+
+## API Endpoints
+
+- `POST /api/knot/session?external_user_id=<id>`: Create a Knot session (returns raw session response).
+- `POST /api/knot/session/launch`: Create a session and return the SDK configuration.
+  - Body: `{"external_user_id": "123", "product": "transaction_link", "merchant_ids": [19]}`
+- `POST /api/knot/transactions/sync`: Sync transactions against Knot’s official API.
+  - Body: `{"merchant_id": 19, "external_user_id": "123", "limit": 5}`
+- `POST /api/knot/transactions/mock-sync`: Fetch mock transactions via the hackathon tunnel.
+- `POST /api/knot/webhook`: Receives Knot webhook events (`x-knot-event` header).
+
+## Testing with Postman
+
+- Set base URL to `http://localhost:8000`.
+- Create session: `POST /api/knot/session?external_user_id=234638`.
+- Launch session + config: `POST /api/knot/session/launch` with JSON body.
+- Official sync: `POST /api/knot/transactions/sync` with JSON body; requires valid Knot credentials.
+- Mock sync: `POST /api/knot/transactions/mock-sync` with JSON body; no authentication required.
+- Webhook test: `POST /api/knot/webhook` with header `x-knot-event: AUTHENTICATED`.
+

@@ -3,11 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <title>Restaurant Stats API Playground</title>
+  <script src="https://unpkg.com/knotapi-js@next"></script>
   <style>
     body { font-family: system-ui, sans-serif; margin: 2rem; }
     button { margin-top: 0.5rem; }
     pre { background: #f5f5f5; padding: 1rem; border-radius: 6px; }
     .card { border: 1px solid #ddd; padding: 1rem; margin-bottom: 1.5rem; border-radius: 8px; }
+    .card button + button { margin-left: 0.5rem; }
   </style>
 </head>
 <body>
@@ -27,7 +29,40 @@
     </label>
     <br />
     <button onclick="createSession()">POST /api/knot/session</button>
+    <button onclick="openKnot()">Launch Knot UI</button>
     <pre id="sessionResult">No request yet.</pre>
+  </div>
+
+  <div class="card">
+    <h2>Knot SDK Events</h2>
+    <pre id="knotLog">Knot SDK not started.</pre>
+  </div>
+
+  <div class="card">
+    <h2>Sync Transactions (Official API)</h2>
+    <label>
+      Merchant ID:
+      <input id="merchantId" type="number" value="19" />
+    </label>
+    <br />
+    <label>
+      External User ID:
+      <input id="syncExternalUserId" value="234638" />
+    </label>
+    <br />
+    <label>
+      Limit:
+      <input id="syncLimit" type="number" value="5" min="1" />
+    </label>
+    <br />
+    <label>
+      Cursor (optional):
+      <input id="syncCursor" placeholder="cursor token" />
+    </label>
+    <br />
+    <button onclick="syncTransactions()">POST /api/knot/transactions/sync</button>
+    <button onclick="syncTransactionsMock()">POST /api/knot/transactions/mock-sync</button>
+    <pre id="syncResult">No request yet.</pre>
   </div>
 
   <div class="card">
@@ -45,6 +80,13 @@
 
   <script>
     const API_BASE_URL = "http://localhost:8000";
+    const KNOT_CLIENT_ID = "dda0778d-9486-47f8-bd80-6f2512f9bcdb";
+    const KNOT_ENVIRONMENT = "development";
+    const KNOT_PRODUCT = "transaction_link";
+    const KNOT_MERCHANT_IDS = [19];
+
+    let latestSession = null;
+    let knotInstance = null;
 
     async function callHealth() {
       try {
@@ -62,10 +104,58 @@
           method: "POST"
         });
         const data = await res.json();
+        latestSession = data.session;
+        logKnotEvent("Session created. Ready to launch Knot UI.");
         document.getElementById("sessionResult").textContent = JSON.stringify(data, null, 2);
       } catch (err) {
         document.getElementById("sessionResult").textContent = err;
       }
+    }
+
+    function openKnot() {
+      if (!window.KnotapiJS || !window.KnotapiJS.default) {
+        alert("Knot SDK script did not load. Check your network connection.");
+        return;
+      }
+      if (!latestSession) {
+        alert("Create a session before launching the Knot UI.");
+        return;
+      }
+      if (!knotInstance) {
+        knotInstance = new window.KnotapiJS.default();
+      }
+
+      logKnotEvent("Opening Knot UI...");
+      knotInstance.open({
+        sessionId: latestSession,
+        clientId: KNOT_CLIENT_ID,
+        environment: KNOT_ENVIRONMENT,
+        product: KNOT_PRODUCT,
+        merchantIds: KNOT_MERCHANT_IDS,
+        useCategories: true,
+        useSearch: true,
+        entryPoint: "playground",
+        onSuccess: (product, details) => {
+          logKnotEvent(`onSuccess: ${product} -> ${JSON.stringify(details)}`);
+        },
+        onError: (product, errorCode, message) => {
+          logKnotEvent(`onError: ${product} | ${errorCode} | ${message}`);
+        },
+        onEvent: (product, event, merchant, payload, taskId) => {
+          logKnotEvent(`onEvent: ${event} @ ${merchant?.name ?? "unknown"} (taskId=${taskId ?? "n/a"})`);
+          console.log("Knot onEvent payload:", { product, event, merchant, payload, taskId });
+        },
+        onExit: product => {
+          logKnotEvent(`onExit: ${product}`);
+        }
+      });
+    }
+
+    function logKnotEvent(message) {
+      const logEl = document.getElementById("knotLog");
+      const timestamp = new Date().toISOString();
+      const existing = logEl.textContent === "Knot SDK not started." ? "" : logEl.textContent + "\n";
+      logEl.textContent = `${existing}[${timestamp}] ${message}`;
     }
 
     async function sendWebhook() {
@@ -82,6 +172,72 @@
         document.getElementById("webhookResult").textContent = JSON.stringify(data, null, 2);
       } catch (err) {
         document.getElementById("webhookResult").textContent = err;
+      }
+    }
+
+    async function syncTransactions() {
+      const merchantId = Number(document.getElementById("merchantId").value);
+      const externalUserId = document.getElementById("syncExternalUserId").value;
+      const limitValue = document.getElementById("syncLimit").value;
+      const cursor = document.getElementById("syncCursor").value || null;
+
+      if (!Number.isInteger(merchantId) || merchantId <= 0) {
+        alert("Provide a valid merchant ID.");
+        return;
+      }
+
+      const body = {
+        merchant_id: merchantId,
+        external_user_id: externalUserId,
+      };
+      if (limitValue) {
+        body.limit = Number(limitValue);
+      }
+      if (cursor) {
+        body.cursor = cursor;
+      }
+
+      try {
+        const res = await fetch(`${API_BASE_URL}/api/knot/transactions/sync`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(body),
+        });
+        const data = await res.json();
+        document.getElementById("syncResult").textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        document.getElementById("syncResult").textContent = err;
+      }
+    }
+
+    async function syncTransactionsMock() {
+      const merchantId = Number(document.getElementById("merchantId").value);
+      const externalUserId = document.getElementById("syncExternalUserId").value;
+      const limitValue = document.getElementById("syncLimit").value;
+
+      if (!Number.isInteger(merchantId) || merchantId <= 0) {
+        alert("Provide a valid merchant ID.");
+        return;
+      }
+
+      const body = {
+        merchant_id: merchantId,
+        external_user_id: externalUserId,
+      };
+      if (limitValue) {
+        body.limit = Number(limitValue);
+      }
+
+      try {
+        const res = await fetch(`${API_BASE_URL}/api/knot/transactions/mock-sync`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(body),
+        });
+        const data = await res.json();
+        document.getElementById("syncResult").textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        document.getElementById("syncResult").textContent = err;
       }
     }
   </script>
