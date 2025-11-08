@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Restaurant Stats API Playground</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    button { margin-top: 0.5rem; }
+    pre { background: #f5f5f5; padding: 1rem; border-radius: 6px; }
+    .card { border: 1px solid #ddd; padding: 1rem; margin-bottom: 1.5rem; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Restaurant Stats API Playground</h1>
+
+  <div class="card">
+    <h2>Check Health</h2>
+    <button onclick="callHealth()">GET /health</button>
+    <pre id="healthResult">No request yet.</pre>
+  </div>
+
+  <div class="card">
+    <h2>Create Knot Session</h2>
+    <label>
+      External User ID:
+      <input id="externalUserId" value="234638" />
+    </label>
+    <br />
+    <button onclick="createSession()">POST /api/knot/session</button>
+    <pre id="sessionResult">No request yet.</pre>
+  </div>
+
+  <div class="card">
+    <h2>Send Webhook Event</h2>
+    <textarea id="webhookPayload" rows="8" cols="60">
+{
+  "merchantId": 19,
+  "externalUserId": "234638"
+}
+    </textarea>
+    <br />
+    <button onclick="sendWebhook()">POST /api/knot/webhook</button>
+    <pre id="webhookResult">No request yet.</pre>
+  </div>
+
+  <script>
+    const API_BASE_URL = "http://localhost:8000";
+
+    async function callHealth() {
+      try {
+        const res = await fetch(`${API_BASE_URL}/health`);
+        document.getElementById("healthResult").textContent = JSON.stringify(await res.json(), null, 2);
+      } catch (err) {
+        document.getElementById("healthResult").textContent = err;
+      }
+    }
+
+    async function createSession() {
+      const externalUserId = document.getElementById("externalUserId").value;
+      try {
+        const res = await fetch(`${API_BASE_URL}/api/knot/session?external_user_id=${encodeURIComponent(externalUserId)}`, {
+          method: "POST"
+        });
+        const data = await res.json();
+        document.getElementById("sessionResult").textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        document.getElementById("sessionResult").textContent = err;
+      }
+    }
+
+    async function sendWebhook() {
+      try {
+        const res = await fetch(`${API_BASE_URL}/api/knot/webhook`, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "x-knot-event": "AUTHENTICATED"
+          },
+          body: document.getElementById("webhookPayload").value
+        });
+        const data = await res.json();
+        document.getElementById("webhookResult").textContent = JSON.stringify(data, null, 2);
+      } catch (err) {
+        document.getElementById("webhookResult").textContent = err;
+      }
+    }
+  </script>
+</body>
+</html>
