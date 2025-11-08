@@ -1,4 +1,3 @@
-fastapi==0.121.0
-httpx==0.28.1
-pydantic==2.12.4
-python-multipart==0.0.20
+fastapi>=0.104.0,<0.122.0
+httpx>=0.25.0,<0.29.0
+pydantic>=2.5.0,<3.0.0
