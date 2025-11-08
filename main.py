@@ -1,8 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from api.knot_route import router as knot_router
 
 app = FastAPI(title="Restaurant Stats API")
-
+app.include_router(knot_router, prefix="/api/knot")
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
@@ -19,6 +21,12 @@ async def root():
 @app.get("/health")
 async def health_check():
     return {"status": "healthy"}
+
+
+@app.get("/playground")
+async def playground():
+    return FileResponse("playground.html")
+
 
 if __name__ == "__main__":
     import uvicorn

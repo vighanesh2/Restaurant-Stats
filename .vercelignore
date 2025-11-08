@@ -1,0 +1,22 @@
+# Ignore unnecessary files to reduce deployment size
+package-lock.json
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.env.local
+.venv/
+venv/
+*.log
+data.json
+render.yaml
+Procfile
+
