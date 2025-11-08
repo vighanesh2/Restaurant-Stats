@@ -1,0 +1,240 @@
+[
+  {
+    "external_user_id": "10001",
+    "url": "https://www.doordash.com/orders/11aa22bb33cc",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "145 Oak St",
+          "city": "Austin",
+          "region": "TX",
+          "postalCode": "78704",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "500 Congress Ave",
+          "city": "Austin",
+          "region": "TX",
+          "postalCode": "78701",
+          "countryCode": "US"
+        },
+        "name": "Taco Bros - Downtown",
+        "phoneNumber": "+15125550123"
+      }
+    },
+    "price": {
+      "subTotal": 45.25,
+      "adjustments": [
+        {"type": "TAX", "label": "Estimated Tax", "amount": 3.45},
+        {"type": "TIP", "label": "Dasher Tip", "amount": 4.0}
+      ],
+      "total": 52.70,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Birria Tacos",
+        "quantity": 3,
+        "price": {"unitPrice": 4.50, "total": 13.50},
+        "orderStatus": "COMPLETED",
+        "imageUrl": "https://img.cdn4dd.com/tacos.jpg"
+      },
+      {
+        "name": "Street Corn",
+        "quantity": 2,
+        "price": {"unitPrice": 5.75, "total": 11.50},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Horchata",
+        "quantity": 2,
+        "price": {"unitPrice": 3.75, "total": 7.50},
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10002",
+    "url": "https://www.doordash.com/orders/44dd55ee66ff",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "789 Lakeview Dr",
+          "city": "Chicago",
+          "region": "IL",
+          "postalCode": "60657",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3000 N Broadway",
+          "city": "Chicago",
+          "region": "IL",
+          "postalCode": "60657",
+          "countryCode": "US"
+        },
+        "name": "Deep Dish & Co.",
+        "phoneNumber": "+17735551234"
+      }
+    },
+    "price": {
+      "subTotal": 62.80,
+      "adjustments": [
+        {"type": "FEE", "label": "Service Fee", "amount": 3.15},
+        {"type": "TAX", "label": "Estimated Tax", "amount": 5.75},
+        {"type": "TIP", "label": "Dasher Tip", "amount": 6.0}
+      ],
+      "total": 77.70,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Chicago Deep Dish Pizza (Large)",
+        "quantity": 1,
+        "price": {"unitPrice": 28.99, "total": 28.99},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Buffalo Wings (12pc)",
+        "quantity": 1,
+        "price": {"unitPrice": 14.50, "total": 14.50},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Caesar Salad",
+        "quantity": 2,
+        "price": {"unitPrice": 9.65, "total": 19.30},
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10003",
+    "url": "https://www.doordash.com/orders/77gg88hh99ii",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "222 Pine St",
+          "city": "San Francisco",
+          "region": "CA",
+          "postalCode": "94111",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "1 Ferry Building",
+          "city": "San Francisco",
+          "region": "CA",
+          "postalCode": "94111",
+          "countryCode": "US"
+        },
+        "name": "Green Bowl - SF",
+        "phoneNumber": "+14155559876"
+      }
+    },
+    "price": {
+      "subTotal": 58.40,
+      "adjustments": [
+        {"type": "TAX", "label": "Estimated Tax", "amount": 5.12},
+        {"type": "TIP", "label": "Dasher Tip", "amount": 3.50}
+      ],
+      "total": 67.02,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Vegan Buddha Bowl",
+        "quantity": 2,
+        "price": {"unitPrice": 13.75, "total": 27.50},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Matcha Smoothie",
+        "quantity": 2,
+        "price": {"unitPrice": 6.45, "total": 12.90},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tofu Wrap",
+        "quantity": 2,
+        "price": {"unitPrice": 9.00, "total": 18.00},
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10004",
+    "url": "https://www.doordash.com/orders/88kk99ll00mm",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "909 Elm St",
+          "city": "Nashville",
+          "region": "TN",
+          "postalCode": "37203",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "210 Broadway",
+          "city": "Nashville",
+          "region": "TN",
+          "postalCode": "37201",
+          "countryCode": "US"
+        },
+        "name": "Hot Chicken Haven",
+        "phoneNumber": "+16155550100"
+      }
+    },
+    "price": {
+      "subTotal": 36.90,
+      "adjustments": [
+        {"type": "TAX", "label": "Estimated Tax", "amount": 3.10},
+        {"type": "TIP", "label": "Dasher Tip", "amount": 4.00}
+      ],
+      "total": 44.00,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Nashville Hot Chicken Sandwich",
+        "quantity": 2,
+        "price": {"unitPrice": 9.50, "total": 19.00},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Mac n’ Cheese",
+        "quantity": 2,
+        "price": {"unitPrice": 5.45, "total": 10.90},
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sweet Tea",
+        "quantity": 2,
+        "price": {"unitPrice": 3.50, "total": 7.00},
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  }
+]
