@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from api.knot_route import router as knot_router
+from services.mock_data import MOCK_ORDER_DATA
 
 app = FastAPI(title="Restaurant Stats API")
 app.include_router(knot_router, prefix="/api/knot")
@@ -26,6 +27,11 @@ async def health_check():
 @app.get("/playground")
 async def playground():
     return FileResponse("playground.html")
+
+
+@app.get("/mock-order")
+async def mock_order():
+    return MOCK_ORDER_DATA
 
 
 if __name__ == "__main__":
