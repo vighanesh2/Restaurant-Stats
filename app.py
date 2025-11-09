@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.api import knot_route, orders_route
+from app.mongo import mongo_client
 
 # Create FastAPI app instance
 fastapi_app = FastAPI(
@@ -21,7 +22,8 @@ fastapi_app.add_middleware(
 
 # Include routers
 fastapi_app.include_router(knot_route.router, prefix="/api")
-fastapi_app.include_router(orders.router, prefix="/api")
+fastapi_app.include_router(orders_route.router, prefix="/api")
+fastapi_app.include_router(mongo_client.router, prefix="/api")
 
 
 @fastapi_app.get("/")

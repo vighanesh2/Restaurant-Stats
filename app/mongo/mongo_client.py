@@ -5,7 +5,7 @@ from pymongo.collection import Collection
 from dotenv import load_dotenv
 from fastapi import APIRouter
 
-router = APIRouter(prefix="/orders", tags=["orders"])
+router = APIRouter(prefix="/mongo-data", tags=["mongo"])
 load_dotenv()
 
 uri = os.getenv("MONGO_URI")
@@ -29,3 +29,16 @@ def get_orders_collection() -> Collection:
     """Get the orders collection from MongoDB."""
     db = client[DB_NAME]
     return db[COLLECTION_NAME]
+
+
+@router.get("/")
+async def get_data():
+    """Get all data from the orders collection."""
+    collection = get_orders_collection()
+    data = list(collection.find({}))
+    # Convert ObjectId to string for JSON serialization
+    from bson import ObjectId
+    for doc in data:
+        if "_id" in doc and isinstance(doc["_id"], ObjectId):
+            doc["_id"] = str(doc["_id"])
+    return {"data": data}

@@ -141,5 +141,5 @@ async def main():
     print(f"Success! Saved {len(all_restaurants)} total restaurants to {output_filename}")
     print("=======================================================")
 
-if __name__ == "__main__":
-    asyncio.run(main())
+#if __name__ == "__main__":
+#    asyncio.run(main())
