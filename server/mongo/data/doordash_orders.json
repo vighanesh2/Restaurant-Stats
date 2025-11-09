@@ -1,0 +1,8148 @@
+[
+  {
+    "external_user_id": "10000",
+    "url": "https://www.doordash.com/orders/relfcgj2gb0i",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "689 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16099403007"
+      }
+    },
+    "price": {
+      "subTotal": 69.96,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.72
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.0
+        }
+      ],
+      "total": 83.68,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 12.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Deli Platter",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 56.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10001",
+    "url": "https://www.doordash.com/orders/bewauosxzpjv",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "667 Elm Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16095238332"
+      }
+    },
+    "price": {
+      "subTotal": 176.97,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 6.92
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 12.07
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 30.1
+        }
+      ],
+      "total": 226.06,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Sake",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 22.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sashimi Platter",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 28.5,
+          "total": 57.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Miso Soup",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Tea",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sushi Combo",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 74.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10002",
+    "url": "https://www.doordash.com/orders/fj7ai9esrdvs",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "306 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "66 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mistral",
+        "phoneNumber": "+16092132327"
+      }
+    },
+    "price": {
+      "subTotal": 55.5,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.28
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.16
+        }
+      ],
+      "total": 69.94,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Croque Monsieur",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.5,
+          "total": 43.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Perrier",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.0,
+          "total": 12.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10003",
+    "url": "https://www.doordash.com/orders/gtfyfo1qffy6",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "397 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16094966401"
+      }
+    },
+    "price": {
+      "subTotal": 52.74,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.7
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 8.29
+        }
+      ],
+      "total": 64.73,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Wine",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 28.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggplant Parmesan",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 17.99,
+          "total": 17.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Espresso",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.5,
+          "total": 3.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10004",
+    "url": "https://www.doordash.com/orders/q9sn88bw2pa2",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "606 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "1 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Winberie's Restaurant & Bar",
+        "phoneNumber": "+16099540962"
+      }
+    },
+    "price": {
+      "subTotal": 71.5,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.13
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 8.91
+        }
+      ],
+      "total": 85.54,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Grilled Chicken",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 20.5,
+          "total": 61.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cocktails",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.0,
+          "total": 10.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10005",
+    "url": "https://www.doordash.com/orders/6gizk4ig4ywt",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "968 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "246 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Arlee's Raw Blends",
+        "phoneNumber": "+16093107455"
+      }
+    },
+    "price": {
+      "subTotal": 77.95,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.02
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.04
+        }
+      ],
+      "total": 98.01,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Protein Smoothie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.99,
+          "total": 17.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie Bowl",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 29.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Smoothie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10006",
+    "url": "https://www.doordash.com/orders/7q02rqcjzw6m",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "558 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16093884788"
+      }
+    },
+    "price": {
+      "subTotal": 19.5,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.2
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 2.52
+        }
+      ],
+      "total": 23.22,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Miso Soup",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 6.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10007",
+    "url": "https://www.doordash.com/orders/5kxacyqpxth1",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "406 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "29 Hulfish St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mediterra Restaurant & Taverna",
+        "phoneNumber": "+16093820662"
+      }
+    },
+    "price": {
+      "subTotal": 154.25,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 5.16
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 9.41
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 18.83
+        }
+      ],
+      "total": 187.65,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Spanakopita",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 19.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Souvlaki",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 18.75,
+          "total": 56.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Greek Wine",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 25.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Octopus",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 26.5,
+          "total": 53.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10008",
+    "url": "https://www.doordash.com/orders/421xheabhzpb",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "543 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16094944418"
+      }
+    },
+    "price": {
+      "subTotal": 22.0,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.55
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 2.81
+        }
+      ],
+      "total": 26.36,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Tuna Hoagie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Water",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 1.5,
+          "total": 3.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10009",
+    "url": "https://www.doordash.com/orders/h43q4j6s9ima",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "593 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16099550757"
+      }
+    },
+    "price": {
+      "subTotal": 115.5,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 5.2
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 9.23
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.22
+        }
+      ],
+      "total": 143.15,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Green Tea",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sashimi Platter",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 28.5,
+          "total": 85.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Miso Soup",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sake",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 7.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10010",
+    "url": "https://www.doordash.com/orders/4ttxacu6kjo6",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "794 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16099538351"
+      }
+    },
+    "price": {
+      "subTotal": 24.0,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.67
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 2.41
+        }
+      ],
+      "total": 28.08,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Miso Soup",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sake",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10011",
+    "url": "https://www.doordash.com/orders/7b0050c13lnv",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "349 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16091153995"
+      }
+    },
+    "price": {
+      "subTotal": 29.0,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.82
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 3.87
+        }
+      ],
+      "total": 34.69,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Chicken Cutlet Hoagie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.75,
+          "total": 21.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 2.5,
+          "total": 7.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10012",
+    "url": "https://www.doordash.com/orders/y33dtono8npu",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "844 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16094328988"
+      }
+    },
+    "price": {
+      "subTotal": 136.46,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 10.16
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 23.33
+        }
+      ],
+      "total": 169.95,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Coffee",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 6.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Deli Platter",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 18.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Italian Sub",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bagel with Lox",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 37.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pastrami on Rye",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10013",
+    "url": "https://www.doordash.com/orders/r6rpknvgp6aa",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "525 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16098056428"
+      }
+    },
+    "price": {
+      "subTotal": 47.96,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.82
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 7.49
+        }
+      ],
+      "total": 59.27,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Sub",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 21.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10014",
+    "url": "https://www.doordash.com/orders/eztnk0er0syc",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "592 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "29 Hulfish St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mediterra Restaurant & Taverna",
+        "phoneNumber": "+16094544362"
+      }
+    },
+    "price": {
+      "subTotal": 77.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.21
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.67
+        }
+      ],
+      "total": 92.37,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Greek Salad",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Octopus",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 26.5,
+          "total": 53.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Gyro Wrap",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 12.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10015",
+    "url": "https://www.doordash.com/orders/u7h1csjhmn0e",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "80 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "66 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mistral",
+        "phoneNumber": "+16091574324"
+      }
+    },
+    "price": {
+      "subTotal": 22.0,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.35
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 4.28
+        }
+      ],
+      "total": 27.63,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "French Wine",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.0,
+          "total": 10.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Perrier",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.0,
+          "total": 12.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10016",
+    "url": "https://www.doordash.com/orders/kzjo7okll99f",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "512 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16091726511"
+      }
+    },
+    "price": {
+      "subTotal": 50.46,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.39
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.08
+        }
+      ],
+      "total": 62.93,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Sub",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Turkey Club",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 5.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10017",
+    "url": "https://www.doordash.com/orders/wkfjfnpbsj44",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "681 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16094768799"
+      }
+    },
+    "price": {
+      "subTotal": 110.47,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 8.58
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 18.49
+        }
+      ],
+      "total": 137.54,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Chow Mein",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bubble Tea",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 5.5,
+          "total": 16.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pad Thai",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 15.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Lo Mein",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 14.5,
+          "total": 14.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Wonton Noodles",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 37.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10018",
+    "url": "https://www.doordash.com/orders/zypa4nw84dnf",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "564 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16093819176"
+      }
+    },
+    "price": {
+      "subTotal": 158.97,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 6.59
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 10.3
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 21.58
+        }
+      ],
+      "total": 197.44,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Grilled Salmon",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.5,
+          "total": 24.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "IPA",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 13.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Steak Frites",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 26.99,
+          "total": 80.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10019",
+    "url": "https://www.doordash.com/orders/ib8pw84alfkf",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "241 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "10 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Yankee Doodle Tap Room",
+        "phoneNumber": "+16091475961"
+      }
+    },
+    "price": {
+      "subTotal": 82.47,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.19
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.09
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.47
+        }
+      ],
+      "total": 101.22,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Wings",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soft Drinks",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 5.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Tenders",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cocktail",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 28.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10020",
+    "url": "https://www.doordash.com/orders/p17fki377llg",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "98 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16093809718"
+      }
+    },
+    "price": {
+      "subTotal": 50.75,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.89
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.62
+        }
+      ],
+      "total": 61.26,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soda",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 8.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Drunken Noodles",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 16.5,
+          "total": 16.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Wonton Noodles",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 12.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Beef Noodle Soup",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10021",
+    "url": "https://www.doordash.com/orders/p8bmubpjtu04",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "116 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16097785730"
+      }
+    },
+    "price": {
+      "subTotal": 94.73,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.2
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 12.83
+        }
+      ],
+      "total": 113.76,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "French Toast",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.75,
+          "total": 32.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggs Benedict",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Breakfast Burrito",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 21.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10022",
+    "url": "https://www.doordash.com/orders/zebdc5nekak0",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "609 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16091042510"
+      }
+    },
+    "price": {
+      "subTotal": 88.7,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.42
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.06
+        }
+      ],
+      "total": 103.18,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Omelette",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 35.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Breakfast Burrito",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 10.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Buttermilk Pancakes",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.99,
+          "total": 8.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hot Chocolate",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 4.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pancake Stack",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 28.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10023",
+    "url": "https://www.doordash.com/orders/m6ibd00riwbb",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "223 Elm Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "1 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Winberie's Restaurant & Bar",
+        "phoneNumber": "+16091934226"
+      }
+    },
+    "price": {
+      "subTotal": 123.98,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 4.51
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 9.42
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 16.12
+        }
+      ],
+      "total": 154.03,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Prime Rib",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 32.99,
+          "total": 65.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Wine",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 17.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Chicken",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 20.5,
+          "total": 41.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10024",
+    "url": "https://www.doordash.com/orders/na3rj129fb8p",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "866 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16093287188"
+      }
+    },
+    "price": {
+      "subTotal": 53.99,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.76
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.63
+        }
+      ],
+      "total": 68.38,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Roasted Chicken",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 22.99,
+          "total": 22.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "IPA",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 6.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Salmon",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.5,
+          "total": 24.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10025",
+    "url": "https://www.doordash.com/orders/67oezlmyt97j",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "409 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "11 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Agricola Eatery",
+        "phoneNumber": "+16096432601"
+      }
+    },
+    "price": {
+      "subTotal": 160.94,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 11.98
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 27.17
+        }
+      ],
+      "total": 200.09,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Farm-to-Table Roasted Chicken",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 74.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Seasonal Risotto",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 19.75,
+          "total": 19.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Quinoa Bowl",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fresh Lemonade",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 4.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soup of the Day",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 17.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10026",
+    "url": "https://www.doordash.com/orders/h237n0c2duvv",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "115 Faculty Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "11 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Agricola Eatery",
+        "phoneNumber": "+16092363021"
+      }
+    },
+    "price": {
+      "subTotal": 71.75,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.46
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.95
+        }
+      ],
+      "total": 89.16,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Garden Salad",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 12.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Seasonal Risotto",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 19.75,
+          "total": 59.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10027",
+    "url": "https://www.doordash.com/orders/7uyhmc9etxjm",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "885 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16093812225"
+      }
+    },
+    "price": {
+      "subTotal": 55.47,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.04
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.01
+        }
+      ],
+      "total": 65.52,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Sake",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 7.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Tea",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 3.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bento Box",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10028",
+    "url": "https://www.doordash.com/orders/4tss5lb8rl59",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "232 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "41 Leigh Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tortuga's Mexican Village",
+        "phoneNumber": "+16097164198"
+      }
+    },
+    "price": {
+      "subTotal": 89.71,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.66
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.9
+        }
+      ],
+      "total": 107.27,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Burrito",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 23.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Quesadilla",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 19.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tacos",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.75,
+          "total": 14.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10029",
+    "url": "https://www.doordash.com/orders/onmkdliejclq",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "139 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "28 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "The Alchemist & Barrister",
+        "phoneNumber": "+16092160947"
+      }
+    },
+    "price": {
+      "subTotal": 54.73,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.79
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.42
+        }
+      ],
+      "total": 64.94,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Roasted Chicken",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 22.75,
+          "total": 22.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fish & Chips",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 31.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10030",
+    "url": "https://www.doordash.com/orders/4awhf2dytgwe",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "331 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16094486855"
+      }
+    },
+    "price": {
+      "subTotal": 182.2,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 8.24
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 13.91
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 33.5
+        }
+      ],
+      "total": 237.85,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Iced Tea",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 3.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Chicken Sandwich",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 27.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Caesar Salad",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.5,
+          "total": 34.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 5.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Filet Mignon",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 36.99,
+          "total": 110.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10031",
+    "url": "https://www.doordash.com/orders/ltteoc0ax7js",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "793 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16097210467"
+      }
+    },
+    "price": {
+      "subTotal": 122.44,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 8.02
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 22.56
+        }
+      ],
+      "total": 153.02,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Ramen",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 27.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chow Mein",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 12.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pad Thai",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 47.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Lo Mein",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 14.5,
+          "total": 29.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Thai Iced Tea",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10032",
+    "url": "https://www.doordash.com/orders/j9686gtcvn41",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "384 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16091163475"
+      }
+    },
+    "price": {
+      "subTotal": 92.97,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.5
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.79
+        }
+      ],
+      "total": 111.26,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Fresh Juice",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Deli Platter",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 56.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Salad Wrap",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10033",
+    "url": "https://www.doordash.com/orders/jq3fuiuea4uw",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "21 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16097291486"
+      }
+    },
+    "price": {
+      "subTotal": 37.47,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.38
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.9
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 5.74
+        }
+      ],
+      "total": 47.49,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Water",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 1.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roast Beef Hoagie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10034",
+    "url": "https://www.doordash.com/orders/jvtvdb8suubd",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "332 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "180 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Taste of Mexico",
+        "phoneNumber": "+16095653054"
+      }
+    },
+    "price": {
+      "subTotal": 108.19,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.23
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.63
+        }
+      ],
+      "total": 127.05,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Burritos",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 29.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Margarita",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 17.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Enchiladas",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tacos",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10035",
+    "url": "https://www.doordash.com/orders/46j2lnjs8wxs",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "890 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "11 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Agricola Eatery",
+        "phoneNumber": "+16093852070"
+      }
+    },
+    "price": {
+      "subTotal": 85.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.59
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 16.55
+        }
+      ],
+      "total": 108.63,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soup of the Day",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 8.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Seasonal Risotto",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 19.75,
+          "total": 39.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Garden Salad",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 12.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Farm-to-Table Roasted Chicken",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 24.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10036",
+    "url": "https://www.doordash.com/orders/vfpikm89n2vp",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "106 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "1 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Winberie's Restaurant & Bar",
+        "phoneNumber": "+16098918748"
+      }
+    },
+    "price": {
+      "subTotal": 79.72,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.23
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.3
+        }
+      ],
+      "total": 99.25,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soup & Salad Combo",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Wine",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 8.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.75,
+          "total": 38.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10037",
+    "url": "https://www.doordash.com/orders/1sidwar8pkyn",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "304 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "180 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Taste of Mexico",
+        "phoneNumber": "+16093925946"
+      }
+    },
+    "price": {
+      "subTotal": 82.71,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.74
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.38
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.02
+        }
+      ],
+      "total": 106.85,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soda",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Enchiladas",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 29.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burritos",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 19.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tacos",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Margarita",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 25.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10038",
+    "url": "https://www.doordash.com/orders/lwuvz4son09t",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "57 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "28 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "The Alchemist & Barrister",
+        "phoneNumber": "+16093481809"
+      }
+    },
+    "price": {
+      "subTotal": 105.72,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.57
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.85
+        }
+      ],
+      "total": 123.14,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Craft Beer",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 19.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roasted Chicken",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 22.75,
+          "total": 22.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Turkey Club",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 38.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Fish",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.5,
+          "total": 24.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10039",
+    "url": "https://www.doordash.com/orders/s0bxwcb9q6n4",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "616 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "258 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Blue Point Grill",
+        "phoneNumber": "+16094403886"
+      }
+    },
+    "price": {
+      "subTotal": 105.25,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.51
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 17.68
+        }
+      ],
+      "total": 129.44,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Crab Cake Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 16.75,
+          "total": 50.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "White Wine",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 6.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Swordfish",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 29.5,
+          "total": 29.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10040",
+    "url": "https://www.doordash.com/orders/6iv8vkylxwhy",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "544 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "11 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Agricola Eatery",
+        "phoneNumber": "+16092732309"
+      }
+    },
+    "price": {
+      "subTotal": 89.96,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.53
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.92
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 17.67
+        }
+      ],
+      "total": 118.08,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Farm-to-Table Roasted Chicken",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 74.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Quinoa Bowl",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 14.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10041",
+    "url": "https://www.doordash.com/orders/z4radyy4v93o",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "938 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16094616303"
+      }
+    },
+    "price": {
+      "subTotal": 47.98,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.81
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 5.33
+        }
+      ],
+      "total": 57.12,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Penne Arrabbiata",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 16.5,
+          "total": 16.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Espresso",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.5,
+          "total": 3.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Panini",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 27.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10042",
+    "url": "https://www.doordash.com/orders/p4hlg1wlbcky",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "83 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "258 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Blue Point Grill",
+        "phoneNumber": "+16092159625"
+      }
+    },
+    "price": {
+      "subTotal": 82.98,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.58
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.41
+        }
+      ],
+      "total": 99.97,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Shrimp Scampi",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 19.99,
+          "total": 39.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Clam Chowder",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 9.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Crab Cake Sandwich",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 16.75,
+          "total": 33.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10043",
+    "url": "https://www.doordash.com/orders/vg4ner6dupjd",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "498 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16094329956"
+      }
+    },
+    "price": {
+      "subTotal": 156.93,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 7.2
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 12.46
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 25.53
+        }
+      ],
+      "total": 202.12,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Spaghetti Carbonara",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 37.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Veal Marsala",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 74.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggplant Parmesan",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 17.99,
+          "total": 35.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Limoncello",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.0,
+          "total": 8.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10044",
+    "url": "https://www.doordash.com/orders/gaqbh5nkm6k8",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "857 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16091490856"
+      }
+    },
+    "price": {
+      "subTotal": 82.2,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.49
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.31
+        }
+      ],
+      "total": 99.0,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Sub",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 10.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Salad Wrap",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Turkey Club",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tuna Salad Sandwich",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 9.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 38.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10045",
+    "url": "https://www.doordash.com/orders/kenwim1m7q30",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "399 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16094198471"
+      }
+    },
+    "price": {
+      "subTotal": 70.47,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.5
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.23
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 12.71
+        }
+      ],
+      "total": 90.91,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Bento Box",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Maki Roll",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 25.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10046",
+    "url": "https://www.doordash.com/orders/eneen5syphuu",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "561 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "66 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mistral",
+        "phoneNumber": "+16097790743"
+      }
+    },
+    "price": {
+      "subTotal": 123.48,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 5.94
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 9.15
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 16.38
+        }
+      ],
+      "total": 154.95,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Salade Ni\u00e7oise",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 15.75,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Perrier",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.0,
+          "total": 12.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "French Wine",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.0,
+          "total": 20.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Beef Bourguignon",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 29.99,
+          "total": 59.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10047",
+    "url": "https://www.doordash.com/orders/t1sojff4byuj",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "670 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16095410984"
+      }
+    },
+    "price": {
+      "subTotal": 15.99,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.14
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 2.73
+        }
+      ],
+      "total": 19.86,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 12.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 3.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10048",
+    "url": "https://www.doordash.com/orders/jtchea69ljt0",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "833 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16097038733"
+      }
+    },
+    "price": {
+      "subTotal": 111.99,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 8.24
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 20.9
+        }
+      ],
+      "total": 141.13,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Milk",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 8.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "French Toast",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.75,
+          "total": 32.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggs Benedict",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pancake Stack",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Omelette",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10049",
+    "url": "https://www.doordash.com/orders/hb77h7di4dw6",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "698 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16092487894"
+      }
+    },
+    "price": {
+      "subTotal": 39.5,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.43
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 7.69
+        }
+      ],
+      "total": 49.62,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Wonton Noodles",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 25.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Lo Mein",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 14.5,
+          "total": 14.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10050",
+    "url": "https://www.doordash.com/orders/g4emlcqeak15",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "24 Faculty Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "258 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Blue Point Grill",
+        "phoneNumber": "+16092780148"
+      }
+    },
+    "price": {
+      "subTotal": 55.0,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.74
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 7.09
+        }
+      ],
+      "total": 65.83,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Grilled Swordfish",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 29.5,
+          "total": 29.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bloody Mary",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 25.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10051",
+    "url": "https://www.doordash.com/orders/yuxfzy51vxhk",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "264 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16093165613"
+      }
+    },
+    "price": {
+      "subTotal": 61.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.23
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.11
+        }
+      ],
+      "total": 75.83,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Ribeye Steak",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 34.99,
+          "total": 34.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Salmon",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 26.5,
+          "total": 26.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10052",
+    "url": "https://www.doordash.com/orders/5mf5s5noq41q",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "285 Elm Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16098355176"
+      }
+    },
+    "price": {
+      "subTotal": 66.22,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.03
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 12.19
+        }
+      ],
+      "total": 82.44,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Juice",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 9.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roast Beef Hoagie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Water",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 1.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tuna Hoagie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10053",
+    "url": "https://www.doordash.com/orders/dwn467rdgcsj",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "687 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16098181249"
+      }
+    },
+    "price": {
+      "subTotal": 23.25,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 0.91
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.69
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 4.2
+        }
+      ],
+      "total": 30.05,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Coffee",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 9.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fresh Juice",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10054",
+    "url": "https://www.doordash.com/orders/pzkeu873jnmy",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "665 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16094862324"
+      }
+    },
+    "price": {
+      "subTotal": 26.99,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.18
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.72
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 4.52
+        }
+      ],
+      "total": 34.41,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Omelette",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hot Chocolate",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 4.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "French Toast",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.75,
+          "total": 10.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10055",
+    "url": "https://www.doordash.com/orders/26xnzfjuzdws",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "61 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "29 Hulfish St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mediterra Restaurant & Taverna",
+        "phoneNumber": "+16094243990"
+      }
+    },
+    "price": {
+      "subTotal": 48.75,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.95
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.46
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.39
+        }
+      ],
+      "total": 60.55,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Turkish Coffee",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Souvlaki",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 18.75,
+          "total": 18.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Ouzo",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 7.0,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10056",
+    "url": "https://www.doordash.com/orders/hrxptg6pgyw3",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "250 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16097383387"
+      }
+    },
+    "price": {
+      "subTotal": 100.73,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 5.0
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.53
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 17.98
+        }
+      ],
+      "total": 131.24,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Deli Platter",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 37.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pastrami on Rye",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 27.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Coffee",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 6.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tuna Salad Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 29.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10057",
+    "url": "https://www.doordash.com/orders/cfubkc73ir95",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "666 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16098806225"
+      }
+    },
+    "price": {
+      "subTotal": 68.24,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 2.23
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.16
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.68
+        }
+      ],
+      "total": 85.31,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Breakfast for Dinner",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 12.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hot Chocolate",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 4.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Milk",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pancake Stack",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Belgian Waffles",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 29.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10058",
+    "url": "https://www.doordash.com/orders/f0tc423ep68c",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "163 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16093688223"
+      }
+    },
+    "price": {
+      "subTotal": 69.97,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.92
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.12
+        }
+      ],
+      "total": 86.01,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Hoagie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 5.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roast Beef Hoagie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10059",
+    "url": "https://www.doordash.com/orders/gizyeygtq720",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "519 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16097613593"
+      }
+    },
+    "price": {
+      "subTotal": 27.5,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.15
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 3.9
+        }
+      ],
+      "total": 33.55,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Limoncello",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 8.0,
+          "total": 24.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Espresso",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.5,
+          "total": 3.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10060",
+    "url": "https://www.doordash.com/orders/5vt9f8a82a6w",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "541 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16093114427"
+      }
+    },
+    "price": {
+      "subTotal": 48.99,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 2.32
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.04
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.45
+        }
+      ],
+      "total": 63.8,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Drunken Noodles",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 16.5,
+          "total": 33.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pad Thai",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 15.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10061",
+    "url": "https://www.doordash.com/orders/22ejb0otxvw2",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "704 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16097650609"
+      }
+    },
+    "price": {
+      "subTotal": 84.73,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.16
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.77
+        }
+      ],
+      "total": 103.66,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Fresh Orange Juice",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pancake Stack",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 19.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggs Benedict",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Breakfast for Dinner",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hot Chocolate",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 12.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10062",
+    "url": "https://www.doordash.com/orders/kqjol29bw3cl",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "94 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "258 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Blue Point Grill",
+        "phoneNumber": "+16094013987"
+      }
+    },
+    "price": {
+      "subTotal": 40.24,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.69
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 7.05
+        }
+      ],
+      "total": 49.98,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Shrimp Scampi",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 19.99,
+          "total": 19.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Craft Beer",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 6.75,
+          "total": 20.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10063",
+    "url": "https://www.doordash.com/orders/ow05iuuwqd1e",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "863 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "29 Hulfish St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mediterra Restaurant & Taverna",
+        "phoneNumber": "+16092998424"
+      }
+    },
+    "price": {
+      "subTotal": 87.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.61
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 15.5
+        }
+      ],
+      "total": 109.6,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Greek Salad",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Gyro Wrap",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 37.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Greek Wine",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 17.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Ouzo",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 7.0,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10064",
+    "url": "https://www.doordash.com/orders/bg9v2yrqsjaa",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "96 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16097645139"
+      }
+    },
+    "price": {
+      "subTotal": 175.41,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 12.98
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 30.38
+        }
+      ],
+      "total": 218.77,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 6.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Italian Sub",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 32.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 38.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pastrami on Rye",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Deli Platter",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 56.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10065",
+    "url": "https://www.doordash.com/orders/77t20kem72yn",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "141 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "29 Hulfish St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mediterra Restaurant & Taverna",
+        "phoneNumber": "+16093713458"
+      }
+    },
+    "price": {
+      "subTotal": 87.97,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.68
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 15.94
+        }
+      ],
+      "total": 109.59,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Turkish Coffee",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hummus Platter",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Mediterranean Cocktails",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.0,
+          "total": 22.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Greek Salad",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 35.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10066",
+    "url": "https://www.doordash.com/orders/z182aajojkbr",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "752 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16094207696"
+      }
+    },
+    "price": {
+      "subTotal": 152.21,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 6.13
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 10.2
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 22.58
+        }
+      ],
+      "total": 191.12,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Roasted Chicken",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 22.99,
+          "total": 68.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "IPA",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 13.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Salmon",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.5,
+          "total": 24.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Steak Frites",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 26.99,
+          "total": 26.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Red Ale",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 6.25,
+          "total": 18.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10067",
+    "url": "https://www.doordash.com/orders/8l3ey3m0eg73",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "521 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16096456556"
+      }
+    },
+    "price": {
+      "subTotal": 86.46,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.82
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.25
+        }
+      ],
+      "total": 106.53,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Margherita Pizza",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Veal Marsala",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 24.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Penne Arrabbiata",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 16.5,
+          "total": 16.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10068",
+    "url": "https://www.doordash.com/orders/3mgx0d18l423",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "782 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16096564311"
+      }
+    },
+    "price": {
+      "subTotal": 36.75,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.76
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.58
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.92
+        }
+      ],
+      "total": 48.01,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Pilsner",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 5.75,
+          "total": 17.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "IPA",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 19.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10069",
+    "url": "https://www.doordash.com/orders/9l8ados06nps",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "404 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "41 Leigh Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tortuga's Mexican Village",
+        "phoneNumber": "+16091072640"
+      }
+    },
+    "price": {
+      "subTotal": 149.93,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 11.58
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 21.94
+        }
+      ],
+      "total": 183.45,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Fajitas",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 19.5,
+          "total": 39.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Quesadilla",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 29.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burrito",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chimichanga",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 47.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10070",
+    "url": "https://www.doordash.com/orders/0hsqjxhnvupj",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "172 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "179 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Nassau Sushi",
+        "phoneNumber": "+16094729104"
+      }
+    },
+    "price": {
+      "subTotal": 58.99,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.93
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.41
+        }
+      ],
+      "total": 73.33,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Dragon Roll",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 12.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sake",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 6.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Japanese Soda",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bento Box",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 14.5,
+          "total": 14.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10071",
+    "url": "https://www.doordash.com/orders/jt5g3u7mivih",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "974 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "41 Leigh Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tortuga's Mexican Village",
+        "phoneNumber": "+16092513818"
+      }
+    },
+    "price": {
+      "subTotal": 58.97,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.84
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.91
+        }
+      ],
+      "total": 73.72,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Quesadilla",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 29.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tacos",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 4.75,
+          "total": 9.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fajitas",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 19.5,
+          "total": 19.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10072",
+    "url": "https://www.doordash.com/orders/uolzjag7dcee",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "353 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "41 Leigh Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tortuga's Mexican Village",
+        "phoneNumber": "+16094384155"
+      }
+    },
+    "price": {
+      "subTotal": 99.98,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.84
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 19.84
+        }
+      ],
+      "total": 126.66,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Mexican Beer",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 5.5,
+          "total": 16.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fajitas",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 19.5,
+          "total": 58.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chimichanga",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 15.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Margarita",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.99,
+          "total": 8.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10073",
+    "url": "https://www.doordash.com/orders/k3c1slrnq3sf",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "742 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "25 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "La Mezzaluna",
+        "phoneNumber": "+16099101073"
+      }
+    },
+    "price": {
+      "subTotal": 132.44,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 8.6
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 17.16
+        }
+      ],
+      "total": 158.2,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Espresso",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.5,
+          "total": 3.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Eggplant Parmesan",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 17.99,
+          "total": 53.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Veal Marsala",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 74.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10074",
+    "url": "https://www.doordash.com/orders/wt6l7mfw2aty",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "937 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16094664607"
+      }
+    },
+    "price": {
+      "subTotal": 42.73,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.8
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.84
+        }
+      ],
+      "total": 52.37,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Italian Hoagie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Soda",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.5,
+          "total": 5.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Juice",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 3.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cheesesteak",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 23.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10075",
+    "url": "https://www.doordash.com/orders/l7qod2s6yg64",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "712 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "10 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Yankee Doodle Tap Room",
+        "phoneNumber": "+16091017152"
+      }
+    },
+    "price": {
+      "subTotal": 73.98,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.91
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.66
+        }
+      ],
+      "total": 93.55,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Cocktail",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 9.5,
+          "total": 9.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Loaded Fries",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 19.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.5,
+          "total": 23.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Beer",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 5.5,
+          "total": 11.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10076",
+    "url": "https://www.doordash.com/orders/ehvrnmfr6dfv",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "242 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16097801557"
+      }
+    },
+    "price": {
+      "subTotal": 79.74,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.72
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.26
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.95
+        }
+      ],
+      "total": 99.67,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Filet Mignon",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 36.99,
+          "total": 36.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cobb Salad",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.25,
+          "total": 42.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10077",
+    "url": "https://www.doordash.com/orders/406g76r5mgw7",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "438 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16093733946"
+      }
+    },
+    "price": {
+      "subTotal": 37.25,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.21
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 2.33
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 7.03
+        }
+      ],
+      "total": 47.82,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soda",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Caesar Salad",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.5,
+          "total": 34.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10078",
+    "url": "https://www.doordash.com/orders/z6yr9d3sdli9",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "983 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "10 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Yankee Doodle Tap Room",
+        "phoneNumber": "+16094028898"
+      }
+    },
+    "price": {
+      "subTotal": 88.93,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.04
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.58
+        }
+      ],
+      "total": 109.55,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Sliders",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 13.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Tenders",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 35.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Wings",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 38.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10079",
+    "url": "https://www.doordash.com/orders/o0kk7a39z6t8",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "540 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16098657878"
+      }
+    },
+    "price": {
+      "subTotal": 112.75,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.75
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 17.91
+        }
+      ],
+      "total": 138.41,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Caesar Salad",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 11.5,
+          "total": 34.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Red Wine",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.0,
+          "total": 27.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Craft Beer",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 13.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 12.75,
+          "total": 38.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10080",
+    "url": "https://www.doordash.com/orders/g12e6904pjax",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "78 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "28 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "The Alchemist & Barrister",
+        "phoneNumber": "+16092803588"
+      }
+    },
+    "price": {
+      "subTotal": 122.22,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 9.24
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 19.62
+        }
+      ],
+      "total": 151.08,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Pasta",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 18.99,
+          "total": 37.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roasted Chicken",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 22.75,
+          "total": 68.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fish & Chips",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 15.99,
+          "total": 15.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10081",
+    "url": "https://www.doordash.com/orders/kg0ffz9noqfo",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "400 Faculty Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16097795264"
+      }
+    },
+    "price": {
+      "subTotal": 44.73,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 2.15
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.38
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 8.29
+        }
+      ],
+      "total": 58.55,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Cheesesteak",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Turkey Hoagie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 9.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Juice",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 6.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roast Beef Hoagie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 10.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 5.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10082",
+    "url": "https://www.doordash.com/orders/o3lxc8hjli8x",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "543 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "154 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "P.J.'s Pancake House",
+        "phoneNumber": "+16099748143"
+      }
+    },
+    "price": {
+      "subTotal": 54.21,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.33
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.76
+        }
+      ],
+      "total": 68.3,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Breakfast for Dinner",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Omelette",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 23.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Hot Chocolate",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.25,
+          "total": 4.25
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10083",
+    "url": "https://www.doordash.com/orders/u0mvbfszt1cb",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "576 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "66 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Mistral",
+        "phoneNumber": "+16092137542"
+      }
+    },
+    "price": {
+      "subTotal": 22.99,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.76
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 2.41
+        }
+      ],
+      "total": 27.16,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "French Onion Soup",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 10.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Perrier",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.0,
+          "total": 12.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10084",
+    "url": "https://www.doordash.com/orders/ortwu2yua118",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "204 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16098235660"
+      }
+    },
+    "price": {
+      "subTotal": 55.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.61
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 6.0
+        }
+      ],
+      "total": 65.1,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Cobb Salad",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 14.25,
+          "total": 28.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Craft Beer",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 13.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Chicken Sandwich",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 13.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10085",
+    "url": "https://www.doordash.com/orders/pz8nv2cb0ojb",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "499 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "246 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Arlee's Raw Blends",
+        "phoneNumber": "+16091677452"
+      }
+    },
+    "price": {
+      "subTotal": 95.45,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.26
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.22
+        }
+      ],
+      "total": 116.93,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Cold Pressed Juice",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 6.99,
+          "total": 6.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Bowl",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Acai Bowl",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie Bowl",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.99,
+          "total": 29.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10086",
+    "url": "https://www.doordash.com/orders/hlmrrwjtejmh",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "722 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "1 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Winberie's Restaurant & Bar",
+        "phoneNumber": "+16093113243"
+      }
+    },
+    "price": {
+      "subTotal": 93.47,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.15
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.78
+        }
+      ],
+      "total": 115.4,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Fish of the Day",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 25.75,
+          "total": 51.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Club Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 41.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10087",
+    "url": "https://www.doordash.com/orders/l9outce6h456",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "726 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "10 Palmer Sq E",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Yankee Doodle Tap Room",
+        "phoneNumber": "+16091331292"
+      }
+    },
+    "price": {
+      "subTotal": 22.24,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 1.37
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 3.39
+        }
+      ],
+      "total": 27.0,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Soft Drinks",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 8.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sliders",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 13.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10088",
+    "url": "https://www.doordash.com/orders/smitans8r79e",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "168 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "41 Leigh Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tortuga's Mexican Village",
+        "phoneNumber": "+16097978400"
+      }
+    },
+    "price": {
+      "subTotal": 75.72,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.58
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 12.35
+        }
+      ],
+      "total": 92.65,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Tacos",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 4.75,
+          "total": 14.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burrito",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 31.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Nachos",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 11.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Margarita",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 8.99,
+          "total": 17.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10089",
+    "url": "https://www.doordash.com/orders/xfm0azc8wcud",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "49 Elm Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "260 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Tiger Noodles House",
+        "phoneNumber": "+16099296126"
+      }
+    },
+    "price": {
+      "subTotal": 72.95,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 2.39
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.59
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.09
+        }
+      ],
+      "total": 90.02,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Thai Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Ramen",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.99,
+          "total": 13.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chow Mein",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Fried Rice",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.99,
+          "total": 23.98
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10090",
+    "url": "https://www.doordash.com/orders/pify29mzfxf8",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "898 University Pl",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "22 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Olives Deli & Bakery",
+        "phoneNumber": "+16094958434"
+      }
+    },
+    "price": {
+      "subTotal": 95.98,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.31
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 13.08
+        }
+      ],
+      "total": 115.37,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Bagel with Lox",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.5,
+          "total": 25.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Reuben Sandwich",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.99,
+          "total": 25.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Tuna Salad Sandwich",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 29.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 6.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Coffee",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.25,
+          "total": 9.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10091",
+    "url": "https://www.doordash.com/orders/dh2spywy2tv0",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "257 Alexander St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16095259606"
+      }
+    },
+    "price": {
+      "subTotal": 60.49,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.32
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 8.97
+        }
+      ],
+      "total": 73.78,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Roasted Chicken",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 22.99,
+          "total": 22.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Red Ale",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.25,
+          "total": 12.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Pilsner",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 5.75,
+          "total": 11.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 13.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10092",
+    "url": "https://www.doordash.com/orders/7jfpjpetkjnm",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "993 Bayard Ln",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "3562 NJ-27",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        },
+        "name": "Sushi King",
+        "phoneNumber": "+16095711980"
+      }
+    },
+    "price": {
+      "subTotal": 101.96,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 7.05
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.96
+        }
+      ],
+      "total": 120.97,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Green Tea",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 3.0,
+          "total": 9.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Sushi Combo",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 24.99,
+          "total": 49.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Bento Box",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 29.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Maki Roll",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 8.5,
+          "total": 8.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Miso Soup",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 4.5,
+          "total": 4.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10093",
+    "url": "https://www.doordash.com/orders/nyosj7yukswj",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "737 Elm Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "246 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Arlee's Raw Blends",
+        "phoneNumber": "+16091928489"
+      }
+    },
+    "price": {
+      "subTotal": 81.45,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 3.3
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 6.25
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 14.24
+        }
+      ],
+      "total": 105.24,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Acai Bowl",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Green Smoothie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 7.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cold Pressed Juice",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.99,
+          "total": 13.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 7.99,
+          "total": 23.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 15.0
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10094",
+    "url": "https://www.doordash.com/orders/a8jzbbsimcbd",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "24 Washington Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "242 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Hoagie Haven",
+        "phoneNumber": "+16091684654"
+      }
+    },
+    "price": {
+      "subTotal": 63.75,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 4.66
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 9.24
+        }
+      ],
+      "total": 77.65,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Turkey Hoagie",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 9.75,
+          "total": 29.25
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Italian Hoagie",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 21.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Iced Tea",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 2.75,
+          "total": 2.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Chicken Cutlet Hoagie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.75,
+          "total": 10.75
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10095",
+    "url": "https://www.doordash.com/orders/h15etgmr3qu1",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "352 Palmer Sq",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16091210991"
+      }
+    },
+    "price": {
+      "subTotal": 171.92,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 7.64
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 10.73
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 31.42
+        }
+      ],
+      "total": 221.71,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Fish Tacos",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 14.99,
+          "total": 44.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Roasted Chicken",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 22.99,
+          "total": 45.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Steak Frites",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 26.99,
+          "total": 80.97
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10096",
+    "url": "https://www.doordash.com/orders/d4y88cvphj76",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "642 College Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16099881064"
+      }
+    },
+    "price": {
+      "subTotal": 83.48,
+      "adjustments": [
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.89
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 10.32
+        }
+      ],
+      "total": 99.69,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "BBQ Ribs",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 28.99,
+          "total": 57.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 12.75,
+          "total": 25.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10097",
+    "url": "https://www.doordash.com/orders/o8apohz94tgj",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "803 Faculty Rd",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "138 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Triumph Brewing Company",
+        "phoneNumber": "+16093189175"
+      }
+    },
+    "price": {
+      "subTotal": 64.0,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 2.81
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 5.03
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 11.35
+        }
+      ],
+      "total": 83.19,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Caesar Salad",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 11.75,
+          "total": 23.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 13.5,
+          "total": 40.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10098",
+    "url": "https://www.doordash.com/orders/sgf0704xixxi",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "755 Prospect Ave",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08540",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "57 Witherspoon St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Witherspoon Grill",
+        "phoneNumber": "+16091761084"
+      }
+    },
+    "price": {
+      "subTotal": 177.72,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 6.84
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 13.43
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 24.72
+        }
+      ],
+      "total": 222.71,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Craft Beer",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 6.5,
+          "total": 13.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Ribeye Steak",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 34.99,
+          "total": 69.98
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Grilled Salmon",
+        "quantity": 2,
+        "price": {
+          "unitPrice": 26.5,
+          "total": 53.0
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Burger",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 12.75,
+          "total": 12.75
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "BBQ Ribs",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 28.99,
+          "total": 28.99
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  },
+  {
+    "external_user_id": "10099",
+    "url": "https://www.doordash.com/orders/jzqw9nv654mf",
+    "orderStatus": "COMPLETED",
+    "shipping": {
+      "location": {
+        "address": {
+          "line1": "536 Harrison St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08541",
+          "countryCode": "US"
+        }
+      }
+    },
+    "store": {
+      "location": {
+        "address": {
+          "line1": "246 Nassau St",
+          "city": "Princeton",
+          "region": "NJ",
+          "postalCode": "08542",
+          "countryCode": "US"
+        },
+        "name": "Arlee's Raw Blends",
+        "phoneNumber": "+16098665212"
+      }
+    },
+    "price": {
+      "subTotal": 49.96,
+      "adjustments": [
+        {
+          "type": "FEE",
+          "label": "Service Fee",
+          "amount": 1.6
+        },
+        {
+          "type": "TAX",
+          "label": "Estimated Tax",
+          "amount": 3.62
+        },
+        {
+          "type": "TIP",
+          "label": "Dasher Tip",
+          "amount": 5.32
+        }
+      ],
+      "total": 60.5,
+      "currency": "USD"
+    },
+    "products": [
+      {
+        "name": "Acai Bowl",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.99,
+          "total": 10.99
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Smoothie",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 7.5,
+          "total": 7.5
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Cold Pressed Juice",
+        "quantity": 3,
+        "price": {
+          "unitPrice": 6.99,
+          "total": 20.97
+        },
+        "orderStatus": "COMPLETED"
+      },
+      {
+        "name": "Acai Bowl",
+        "quantity": 1,
+        "price": {
+          "unitPrice": 10.5,
+          "total": 10.5
+        },
+        "orderStatus": "COMPLETED"
+      }
+    ],
+    "schema_version": "11/08/2025"
+  }
+]

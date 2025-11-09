@@ -1,0 +1,539 @@
+[
+  {
+    "restaurant": "Agricola Eatery",
+    "address": "11 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350186,
+      "lon": -74.659455
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Farm-to-Table Roasted Chicken", "unitPrice": 24.99},
+        {"name": "Grilled Vegetable Platter", "unitPrice": 18.50},
+        {"name": "Seasonal Risotto", "unitPrice": 19.75},
+        {"name": "Grass-Fed Beef Burger", "unitPrice": 16.99}
+      ],
+      "Lunch": [
+        {"name": "Garden Salad", "unitPrice": 12.50},
+        {"name": "Quinoa Bowl", "unitPrice": 14.99},
+        {"name": "Artisan Sandwich", "unitPrice": 13.75},
+        {"name": "Soup of the Day", "unitPrice": 8.50}
+      ],
+      "Drinks": [
+        {"name": "Wine", "unitPrice": 9.00},
+        {"name": "Craft Beer", "unitPrice": 6.50},
+        {"name": "Fresh Lemonade", "unitPrice": 4.25},
+        {"name": "Herbal Tea", "unitPrice": 3.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Mediterra Restaurant & Taverna",
+    "address": "29 Hulfish St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.351535,
+      "lon": -74.66103
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Lamb Moussaka", "unitPrice": 22.99},
+        {"name": "Grilled Octopus", "unitPrice": 26.50},
+        {"name": "Chicken Souvlaki", "unitPrice": 18.75},
+        {"name": "Mediterranean Sea Bass", "unitPrice": 28.99}
+      ],
+      "Lunch": [
+        {"name": "Greek Salad", "unitPrice": 11.99},
+        {"name": "Gyro Wrap", "unitPrice": 12.50},
+        {"name": "Spanakopita", "unitPrice": 9.75},
+        {"name": "Hummus Platter", "unitPrice": 10.50}
+      ],
+      "Drinks": [
+        {"name": "Greek Wine", "unitPrice": 8.50},
+        {"name": "Ouzo", "unitPrice": 7.00},
+        {"name": "Mediterranean Cocktails", "unitPrice": 11.00},
+        {"name": "Turkish Coffee", "unitPrice": 4.50}
+      ]
+    }
+  },
+  {
+    "restaurant": "Blue Point Grill",
+    "address": "258 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.346648,
+      "lon": -74.654228
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Lobster Roll", "unitPrice": 32.99},
+        {"name": "Grilled Swordfish", "unitPrice": 29.50},
+        {"name": "Oysters on the Half Shell", "unitPrice": 18.00},
+        {"name": "Seafood Paella", "unitPrice": 34.99}
+      ],
+      "Lunch": [
+        {"name": "Fish & Chips", "unitPrice": 15.99},
+        {"name": "Clam Chowder", "unitPrice": 9.50},
+        {"name": "Crab Cake Sandwich", "unitPrice": 16.75},
+        {"name": "Shrimp Scampi", "unitPrice": 19.99}
+      ],
+      "Drinks": [
+        {"name": "White Wine", "unitPrice": 9.50},
+        {"name": "Craft Beer", "unitPrice": 6.75},
+        {"name": "Bloody Mary", "unitPrice": 8.50},
+        {"name": "Iced Tea", "unitPrice": 3.25}
+      ]
+    }
+  },
+  {
+    "restaurant": "Mistral",
+    "address": "66 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350605,
+      "lon": -74.659224
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Coq au Vin", "unitPrice": 26.99},
+        {"name": "Bouillabaisse", "unitPrice": 31.50},
+        {"name": "Duck Confit", "unitPrice": 28.75},
+        {"name": "Beef Bourguignon", "unitPrice": 29.99}
+      ],
+      "Lunch": [
+        {"name": "Croque Monsieur", "unitPrice": 14.50},
+        {"name": "French Onion Soup", "unitPrice": 10.99},
+        {"name": "Salade Niçoise", "unitPrice": 15.75},
+        {"name": "Quiche Lorraine", "unitPrice": 13.50}
+      ],
+      "Drinks": [
+        {"name": "French Wine", "unitPrice": 10.00},
+        {"name": "Champagne", "unitPrice": 12.00},
+        {"name": "French Press Coffee", "unitPrice": 5.50},
+        {"name": "Perrier", "unitPrice": 4.00}
+      ]
+    }
+  },
+  {
+    "restaurant": "P.J.'s Pancake House",
+    "address": "154 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.348952,
+      "lon": -74.657542
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Breakfast for Dinner", "unitPrice": 12.99},
+        {"name": "Pancake Stack", "unitPrice": 9.50},
+        {"name": "French Toast", "unitPrice": 10.75},
+        {"name": "Omelette", "unitPrice": 11.99}
+      ],
+      "Lunch": [
+        {"name": "Buttermilk Pancakes", "unitPrice": 8.99},
+        {"name": "Belgian Waffles", "unitPrice": 9.75},
+        {"name": "Eggs Benedict", "unitPrice": 13.50},
+        {"name": "Breakfast Burrito", "unitPrice": 10.99}
+      ],
+      "Drinks": [
+        {"name": "Fresh Orange Juice", "unitPrice": 4.50},
+        {"name": "Coffee", "unitPrice": 3.25},
+        {"name": "Milk", "unitPrice": 2.75},
+        {"name": "Hot Chocolate", "unitPrice": 4.25}
+      ]
+    }
+  },
+  {
+    "restaurant": "Witherspoon Grill",
+    "address": "57 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350408,
+      "lon": -74.659369
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Ribeye Steak", "unitPrice": 34.99},
+        {"name": "Grilled Salmon", "unitPrice": 26.50},
+        {"name": "BBQ Ribs", "unitPrice": 28.99},
+        {"name": "Filet Mignon", "unitPrice": 36.99}
+      ],
+      "Lunch": [
+        {"name": "Grilled Chicken Sandwich", "unitPrice": 13.99},
+        {"name": "Caesar Salad", "unitPrice": 11.50},
+        {"name": "Burger", "unitPrice": 12.75},
+        {"name": "Cobb Salad", "unitPrice": 14.25}
+      ],
+      "Drinks": [
+        {"name": "Red Wine", "unitPrice": 9.00},
+        {"name": "Craft Beer", "unitPrice": 6.50},
+        {"name": "Iced Tea", "unitPrice": 3.25},
+        {"name": "Soda", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Triumph Brewing Company",
+    "address": "138 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.348482,
+      "lon": -74.657891
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Roasted Chicken", "unitPrice": 22.99},
+        {"name": "Grilled Salmon", "unitPrice": 24.50},
+        {"name": "Steak Frites", "unitPrice": 26.99}
+      ],
+      "Lunch": [
+        {"name": "Burger", "unitPrice": 13.50},
+        {"name": "Fish Tacos", "unitPrice": 14.99},
+        {"name": "Caesar Salad", "unitPrice": 11.75}
+      ],
+      "Drinks": [
+        {"name": "IPA", "unitPrice": 6.50},
+        {"name": "Pilsner", "unitPrice": 5.75},
+        {"name": "Red Ale", "unitPrice": 6.25}
+      ]
+    }
+  },
+  {
+    "restaurant": "Winberie's Restaurant & Bar",
+    "address": "1 Palmer Sq E, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350722,
+      "lon": -74.659711
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Prime Rib", "unitPrice": 32.99},
+        {"name": "Grilled Chicken", "unitPrice": 20.50},
+        {"name": "Pasta Primavera", "unitPrice": 18.99},
+        {"name": "Fish of the Day", "unitPrice": 25.75}
+      ],
+      "Lunch": [
+        {"name": "Club Sandwich", "unitPrice": 13.99},
+        {"name": "Caesar Salad", "unitPrice": 11.50},
+        {"name": "Burger", "unitPrice": 12.75},
+        {"name": "Soup & Salad Combo", "unitPrice": 10.99}
+      ],
+      "Drinks": [
+        {"name": "Cocktails", "unitPrice": 10.00},
+        {"name": "Wine", "unitPrice": 8.50},
+        {"name": "Beer", "unitPrice": 5.75},
+        {"name": "Soft Drinks", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Olives Deli & Bakery",
+    "address": "22 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350207,
+      "lon": -74.659205
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Deli Platter", "unitPrice": 18.99},
+        {"name": "Reuben Sandwich", "unitPrice": 12.99},
+        {"name": "Pastrami on Rye", "unitPrice": 13.50},
+        {"name": "Turkey Club", "unitPrice": 11.99}
+      ],
+      "Lunch": [
+        {"name": "Italian Sub", "unitPrice": 10.99},
+        {"name": "Tuna Salad Sandwich", "unitPrice": 9.75},
+        {"name": "Chicken Salad Wrap", "unitPrice": 10.50},
+        {"name": "Bagel with Lox", "unitPrice": 12.50}
+      ],
+      "Drinks": [
+        {"name": "Fresh Juice", "unitPrice": 4.50},
+        {"name": "Coffee", "unitPrice": 3.25},
+        {"name": "Soda", "unitPrice": 2.75},
+        {"name": "Iced Tea", "unitPrice": 3.00}
+      ]
+    }
+  },
+  {
+    "restaurant": "Hoagie Haven",
+    "address": "242 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.346781,
+      "lon": -74.654081
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Classic Hoagie", "unitPrice": 9.99},
+        {"name": "Italian Hoagie", "unitPrice": 10.50},
+        {"name": "Turkey Hoagie", "unitPrice": 9.75},
+        {"name": "Veggie Hoagie", "unitPrice": 8.99}
+      ],
+      "Lunch": [
+        {"name": "Cheesesteak", "unitPrice": 11.99},
+        {"name": "Chicken Cutlet Hoagie", "unitPrice": 10.75},
+        {"name": "Tuna Hoagie", "unitPrice": 9.50},
+        {"name": "Roast Beef Hoagie", "unitPrice": 10.99}
+      ],
+      "Drinks": [
+        {"name": "Soda", "unitPrice": 2.50},
+        {"name": "Iced Tea", "unitPrice": 2.75},
+        {"name": "Water", "unitPrice": 1.50},
+        {"name": "Juice", "unitPrice": 3.25}
+      ]
+    }
+  },
+  {
+    "restaurant": "The Alchemist & Barrister",
+    "address": "28 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350365,
+      "lon": -74.659174
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Steak", "unitPrice": 29.99},
+        {"name": "Grilled Fish", "unitPrice": 24.50},
+        {"name": "Pasta", "unitPrice": 18.99},
+        {"name": "Roasted Chicken", "unitPrice": 22.75}
+      ],
+      "Lunch": [
+        {"name": "Burger", "unitPrice": 13.50},
+        {"name": "Turkey Club", "unitPrice": 12.99},
+        {"name": "Fish & Chips", "unitPrice": 15.99}
+      ],
+      "Drinks": [
+        {"name": "Craft Beer", "unitPrice": 6.50},
+        {"name": "Wine", "unitPrice": 8.00}
+      ]
+    }
+  },
+  {
+    "restaurant": "Ivy Inn",
+    "address": "248 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.346846,
+      "lon": -74.654168
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Prime Rib", "unitPrice": 31.99},
+        {"name": "Grilled Salmon", "unitPrice": 25.50},
+        {"name": "Chicken Parmesan", "unitPrice": 19.99},
+        {"name": "Pasta Carbonara", "unitPrice": 17.99}
+      ],
+      "Lunch": [
+        {"name": "Pub Burger", "unitPrice": 13.99},
+        {"name": "Fish & Chips", "unitPrice": 15.50},
+        {"name": "Caesar Salad", "unitPrice": 11.75},
+        {"name": "Chicken Wings", "unitPrice": 12.99}
+      ],
+      "Drinks": [
+        {"name": "Beer", "unitPrice": 5.75},
+        {"name": "Wine", "unitPrice": 8.50},
+        {"name": "Cocktails", "unitPrice": 10.00},
+        {"name": "Soft Drinks", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Sushi King",
+    "address": "3562 NJ-27, Princeton, NJ 08540",
+    "coordinates": {
+      "lat": 40.375442,
+      "lon": -74.606103
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Sushi Combo", "unitPrice": 24.99},
+        {"name": "Sashimi Platter", "unitPrice": 28.50}
+      ],
+      "Lunch": [
+        {"name": "Bento Box", "unitPrice": 14.99},
+        {"name": "Maki Roll", "unitPrice": 8.50}
+      ],
+      "Drinks": [
+        {"name": "Sake", "unitPrice": 7.50},
+        {"name": "Green Tea", "unitPrice": 3.00},
+        {"name": "Japanese Beer", "unitPrice": 5.75},
+        {"name": "Miso Soup", "unitPrice": 4.50}
+      ]
+    }
+  },
+  {
+    "restaurant": "Taste of Mexico",
+    "address": "180 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.349325,
+      "lon": -74.657342
+    },
+    "menus": {
+      "Lunch": [
+        {"name": "Tacos", "unitPrice": 4.50},
+        {"name": "Burritos", "unitPrice": 9.99}
+      ],
+      "Dinner": [
+        {"name": "Enchiladas", "unitPrice": 14.99},
+        {"name": "Fajitas", "unitPrice": 18.50}
+      ],
+      "Drinks": [
+        {"name": "Margarita", "unitPrice": 8.50},
+        {"name": "Soda", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Nassau Sushi",
+    "address": "179 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.349179,
+      "lon": -74.657796
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Sushi Platter", "unitPrice": 26.99},
+        {"name": "Sashimi Deluxe", "unitPrice": 29.99},
+        {"name": "Dragon Roll", "unitPrice": 12.99},
+        {"name": "Rainbow Roll", "unitPrice": 13.50}
+      ],
+      "Lunch": [
+        {"name": "Lunch Special Sushi", "unitPrice": 16.99},
+        {"name": "Bento Box", "unitPrice": 14.50},
+        {"name": "Teriyaki Bowl", "unitPrice": 13.99},
+        {"name": "Maki Combo", "unitPrice": 15.75}
+      ],
+      "Drinks": [
+        {"name": "Sake", "unitPrice": 7.50},
+        {"name": "Green Tea", "unitPrice": 3.00},
+        {"name": "Japanese Soda", "unitPrice": 3.50},
+        {"name": "Miso Soup", "unitPrice": 4.25}
+      ]
+    }
+  },
+  {
+    "restaurant": "Yankee Doodle Tap Room",
+    "address": "10 Palmer Sq E, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350601,
+      "lon": -74.659754
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Wings", "unitPrice": 12.99},
+        {"name": "Nachos", "unitPrice": 11.50},
+        {"name": "Sliders", "unitPrice": 13.99},
+        {"name": "Loaded Fries", "unitPrice": 9.99}
+      ],
+      "Lunch": [
+        {"name": "Burger", "unitPrice": 12.75},
+        {"name": "Chicken Tenders", "unitPrice": 11.99},
+        {"name": "Nachos", "unitPrice": 10.50},
+        {"name": "Wings", "unitPrice": 11.99}
+      ],
+      "Drinks": [
+        {"name": "Beer", "unitPrice": 5.50},
+        {"name": "Cocktail", "unitPrice": 9.50},
+        {"name": "Soft Drinks", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "La Mezzaluna",
+    "address": "25 Witherspoon St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.350184,
+      "lon": -74.659064
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Spaghetti Carbonara", "unitPrice": 18.99},
+        {"name": "Chicken Parmigiana", "unitPrice": 20.50},
+        {"name": "Veal Marsala", "unitPrice": 24.99},
+        {"name": "Eggplant Parmesan", "unitPrice": 17.99}
+      ],
+      "Lunch": [
+        {"name": "Margherita Pizza", "unitPrice": 14.99},
+        {"name": "Caesar Salad", "unitPrice": 11.50},
+        {"name": "Penne Arrabbiata", "unitPrice": 16.50},
+        {"name": "Chicken Panini", "unitPrice": 13.99}
+      ],
+      "Drinks": [
+        {"name": "Italian Wine", "unitPrice": 9.50},
+        {"name": "Espresso", "unitPrice": 3.50},
+        {"name": "Limoncello", "unitPrice": 8.00},
+        {"name": "Soda", "unitPrice": 2.75}
+      ]
+    }
+  },
+  {
+    "restaurant": "Tortuga's Mexican Village",
+    "address": "41 Leigh Ave, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.356748,
+      "lon": -74.661715
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Nachos", "unitPrice": 11.99},
+        {"name": "Chimichanga", "unitPrice": 15.99},
+        {"name": "Fajitas", "unitPrice": 19.50}
+      ],
+      "Lunch": [
+        {"name": "Tacos", "unitPrice": 4.75},
+        {"name": "Burrito", "unitPrice": 10.50},
+        {"name": "Quesadilla", "unitPrice": 9.99}
+      ],
+      "Drinks": [
+        {"name": "Margarita", "unitPrice": 8.99},
+        {"name": "Mexican Beer", "unitPrice": 5.50}
+      ]
+    }
+  },
+  {
+    "restaurant": "Tiger Noodles House",
+    "address": "260 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.34641,
+      "lon": -74.654271
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Pad Thai", "unitPrice": 15.99},
+        {"name": "Ramen", "unitPrice": 13.99},
+        {"name": "Lo Mein", "unitPrice": 14.50},
+        {"name": "Drunken Noodles", "unitPrice": 16.50}
+      ],
+      "Lunch": [
+        {"name": "Chow Mein", "unitPrice": 12.99},
+        {"name": "Beef Noodle Soup", "unitPrice": 13.50},
+        {"name": "Fried Rice", "unitPrice": 11.99},
+        {"name": "Wonton Noodles", "unitPrice": 12.50}
+      ],
+      "Drinks": [
+        {"name": "Thai Iced Tea", "unitPrice": 4.50},
+        {"name": "Bubble Tea", "unitPrice": 5.50},
+        {"name": "Soda", "unitPrice": 2.75},
+        {"name": "Green Tea", "unitPrice": 3.00}
+      ]
+    }
+  },
+  {
+    "restaurant": "Arlee's Raw Blends",
+    "address": "246 Nassau St, Princeton, NJ 08542",
+    "coordinates": {
+      "lat": 40.346819,
+      "lon": -74.654069
+    },
+    "menus": {
+      "Dinner": [
+        {"name": "Acai Bowl", "unitPrice": 10.99},
+        {"name": "Smoothie Bowl", "unitPrice": 9.99},
+        {"name": "Green Smoothie", "unitPrice": 7.50},
+        {"name": "Protein Smoothie", "unitPrice": 8.99}
+      ],
+      "Lunch": [
+        {"name": "Fresh Juice", "unitPrice": 6.50},
+        {"name": "Smoothie", "unitPrice": 7.99},
+        {"name": "Acai Bowl", "unitPrice": 10.50},
+        {"name": "Green Bowl", "unitPrice": 11.99}
+      ],
+      "Drinks": [
+        {"name": "Cold Pressed Juice", "unitPrice": 6.99},
+        {"name": "Smoothie", "unitPrice": 7.50}
+      ]
+    }
+  }
+]
