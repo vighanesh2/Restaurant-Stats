@@ -1,10 +1,9 @@
 import os
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
-
-from fastapi import APIRouter
-
+from pymongo.collection import Collection
 from dotenv import load_dotenv
+
 load_dotenv()
 
 uri = os.getenv("MONGO_URI")
@@ -18,3 +17,13 @@ try:
     print("Pinged your deployment. You successfully connected to MongoDB!")
 except Exception as e:
     print(e)
+
+# Database and collection names
+DB_NAME = "restaurant_stats"
+COLLECTION_NAME = "orders"
+
+
+def get_orders_collection() -> Collection:
+    """Get the orders collection from MongoDB."""
+    db = client[DB_NAME]
+    return db[COLLECTION_NAME]

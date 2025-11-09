@@ -1,4 +1,4 @@
-from main import app
+from app import app
 
 # Export the FastAPI app for Vercel
 # Vercel will automatically handle the ASGI application
